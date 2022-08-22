@@ -7,4 +7,6 @@
 ![C](https://img.shields.io/badge/-prosto_epta-BA55D3?style=for-the-badge&logo=C)
 ![python](https://img.shields.io/badge/-zmeya-FFFFFF?style=for-the-badge&logo=Python)
 
-Follow Me
+## link
+[![Telegram](https://img.shields.io/badge/-clorox-00BFFF?style=for-the-badge&logo=Telegram)](https://t.me/desestupid)
+![Slack](https://img.shields.io/badge/-pdursley-DAA520?style=for-the-badge&logo=Slack)
