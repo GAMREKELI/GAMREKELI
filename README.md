@@ -1,6 +1,6 @@
 ![Header](https://github.com/izipivo/izipivo/blob/main/assets/MpkmJUo.gif)
 
-About me
+## I'm a student of School 21 (Moscow)
 
 Language
 
