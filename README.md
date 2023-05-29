@@ -12,3 +12,5 @@
 ## Link:
 [![Telegram](https://img.shields.io/badge/-clorox-00BFFF?style=for-the-badge&logo=Telegram)](https://t.me/desestupid)
 ![Slack](https://img.shields.io/badge/-pdursley-DAA520?style=for-the-badge&logo=Slack)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI)](https://github.com/GAMREKELI/github-readme-stats)
