@@ -1,38 +1,17 @@
 <h1 align="center">Hi there, I'm Nikita Gamrekeli </h1>
 
-## Language:
+## LANGUAGES:
 ![C++](https://img.shields.io/badge/-C++-00BFFF?style=for-the-badge&logo=Cplusplus)
 ![C](https://img.shields.io/badge/-prosto_c-BA55D3?style=for-the-badge&logo=C)
 ![python](https://img.shields.io/badge/-zmeya-FFFFFF?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java)
 
 
-## Link:
+## LINK:
 [![Telegram](https://img.shields.io/badge/-clorox-00BFFF?style=for-the-badge&logo=Telegram)](https://t.me/desestupid)
 ![Slack](https://img.shields.io/badge/-pdursley-DAA520?style=for-the-badge&logo=Slack)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI)](https://github.com/GAMREKELI/github-readme-stats)
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
 
-    .widget-container {
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-  <div class="widget-container">
-    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats)
-  </div>
-</body>
-</html>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
