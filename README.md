@@ -13,8 +13,26 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI)](https://github.com/GAMREKELI/github-readme-stats)
 
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .widget-container {
+      text-align: center;
+    }
+  </style>
+</head>
 <body>
   <div class="widget-container">
     [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats)
   </div>
 </body>
+</html>
