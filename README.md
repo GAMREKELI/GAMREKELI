@@ -13,4 +13,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI)](https://github.com/GAMREKELI/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats)
+<body>
+  <div class="widget-container">
+    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats)
+  </div>
+</body>
