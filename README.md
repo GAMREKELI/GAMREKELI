@@ -14,3 +14,5 @@
 ![Slack](https://img.shields.io/badge/-pdursley-DAA520?style=for-the-badge&logo=Slack)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI)](https://github.com/GAMREKELI/github-readme-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats)
