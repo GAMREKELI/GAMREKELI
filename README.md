@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/-clorox-00BFFF?style=for-the-badge&logo=Telegram)](https://t.me/desestupid)
 ![Slack](https://img.shields.io/badge/-pdursley-DAA520?style=for-the-badge&logo=Slack)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI)](https://github.com/GAMREKELI/github-readme-stats)
+## PROFILE VIEWS:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMREKELI&theme=dark)](https://github.com/GAMREKELI/github-readme-stats)
 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)(https://github-readme-streak-stats.herokuapp.com/?user=izipivo)](https://github.com/izipivo/leetcode-stats)(https://git.io/streak-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=izipivo&theme=dark)](https://github.com/izipivo/leetcode-stats)
