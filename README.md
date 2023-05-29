@@ -1,6 +1,4 @@
-![Header](https://github.com/izipivo/izipivo/blob/main/assets/MpkmJUo.gif)
-
-## I'm a student of School 21 (Moscow)
+<h1 align="center">Hi there, I'm Nikita Gamrekeli </h1>
 
 ## Language:
 ![C++](https://img.shields.io/badge/-C++-00BFFF?style=for-the-badge&logo=Cplusplus)
